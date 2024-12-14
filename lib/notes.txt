@@ -1,0 +1,8 @@
+COLORS
+appbar - 0xFF0E6B73
+60% - 0xFF1598A5
+
+unclickable icons - 0xFFA5D8D0
+search field - 0xFF4DB6B0
+red icon - 0xFFD9534F
+green icon - 0xFF4CAF50
